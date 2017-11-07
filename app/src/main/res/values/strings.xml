@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicacion5</string>
+    <string-array name="lista">
+        <item>Elemento uno</item>
+        <item>Elemento dos</item>
+        <item>Elemento tres</item>
+        <item>Elemento cuatro</item>
+        <item>Elemento cinco</item>
+    </string-array>
+</resources>
